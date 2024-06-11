@@ -10,7 +10,7 @@ const Header = () => {
           <div className='row'>
             <div className='col-6'>
               <p className='text-white mb-0'>
-                NQD Store uy tín, giá tốt nhất thị trường
+                NTL Store uy tín, giá tốt nhất thị trường
               </p>
             </div>
             <div className='col-6'>
@@ -27,7 +27,7 @@ const Header = () => {
           <div className='row align-items-center'>
             <div className='col-2'>
               <h2>
-                <Link to='/' className='text-white'>NQD Store</Link>
+                <Link to='/' className='text-white'>NTL Store</Link>
               </h2>
             </div>
             <div className='col-5'>
