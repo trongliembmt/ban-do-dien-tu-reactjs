@@ -45,7 +45,7 @@ const Contact = () => {
                         <li className="mb-3 d-flex gap-15 align-items-center">
                           <AiOutlineHome className="fs-5" />
                           <address className="mb-0">
-                            1135, Huỳnh Tấn Phát, p.Phú Thuận, q.7, Tp.Hồ Chí Minh
+                            1646A Võ Văn Kiệt,Phường 16, Q8, Tp.Hồ Chí Minh
                           </address>
                         </li>
                         <li className="mb-3 d-flex gap-15 align-items-center">
